@@ -1,24 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mughees%20Ali&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=I%20build%20things%20that%20start%20as%20ideas.&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Syed%20Mughees%20Ali&fontSize=48&fontColor=ffffff&font=JetBrains%20Mono&fontAlignY=38&desc=I%20build%20things%20that%20start%20as%20ideas.&descAlignY=62&descSize=17&descColor=94A3B8" width="100%"/>
 
 <br/>
 
-<a href="https://syedmugheesali.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0f172a?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/syedmugheesali/">
-<img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-&nbsp;
-<a href="mailto:syedmugheessali@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20TALK-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Development+Intern;Building+%E2%80%A2+Learning+%E2%80%A2+Breaking+%E2%80%A2+Fixing;Turning+ideas+into+working+software" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full-Stack+Development+Intern;Building+%E2%80%A2+Learning+%E2%80%A2+Breaking+%E2%80%A2+Fixing;Turning+ideas+into+working+software" />
+<a href="https://syedmugheesali.vercel.app">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit-0f172a?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/syedmugheesali/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
 
 </div>
 
@@ -62,36 +58,29 @@ I don't have everything figured out.
 
 # `> projects`
 
-### Things I've built while figuring this whole thing out and currently braeking out...
+### Things I've built, experimented with, and am currently breaking.
 
 <br/>
 
-<table> <tr>
+## 🎨 Canvas Dots
 
-<td width="50%" valign="top">
+> **Make a blank canvas feel alive.**
 
-🎨 Canvas Dots
+An interactive canvas experiment that started with a simple idea and is now becoming an ongoing playground for animation, interaction, and visual effects.
 
-An interactive canvas experiment that started with a simple idea:
+I'm actively working on this project — experimenting with new ideas and interactions to make the canvas more interesting and turn it into something more than just a collection of moving dots.
 
-make a blank canvas feel alive.
+**`JavaScript` `HTML Canvas` `Animation` `Interactive UI`**
 
-I'm actively developing this project, experimenting with animation, interaction, and visual effects to make the experience more interesting.
+<a href="https://canvas-dots.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge" />
+</a>
 
-JavaScript HTML Canvas Animation
+<br/><br/>
 
-<a href="https://canvas-dots.vercel.app/"> → **Play with it** </a>
+---
 
-</td>
-
-<td width="50%" valign="top">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
 My little corner of the internet.
 
@@ -100,60 +89,50 @@ Built to showcase the things I'm working on, the things I've learned, and the di
 **`Next.js` `TypeScript` `Modern UI`**
 
 <a href="https://syedmugheessali.vercel.app">
-→ **Visit Portfolio**
+<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-0f172a?style=for-the-badge" />
 </a>
 
-</td>
+<br/><br/>
 
-<td width="50%" valign="top">
+---
 
-### 💸 Expense Tracker
+## 💸 Expense Tracker
 
 A simple idea with a surprisingly useful purpose:
 
-**Where did all my money go?**
+> **Where did all my money go?**
 
 A browser-based application built while strengthening my JavaScript fundamentals, DOM manipulation, and client-side data persistence.
 
 **`JavaScript` `HTML` `CSS` `LocalStorage`**
 
-</td>
+<br/>
 
-</tr>
+---
 
-<tr>
+## 🛒 ZAMAZONE
 
-<td width="50%" valign="top">
+An e-commerce management system built as an academic project — designed to go beyond a basic shopping interface.
 
-### 🛒 ZAMAZONE
-
-An e-commerce management system built as an academic project — but designed to go beyond a basic shopping UI.
-
-Multiple roles. Inventory. Transactions. CRUD operations. Database logic.
+Multiple user roles, inventory management, transactions, CRUD operations, and database logic.
 
 **`Java` `SQL` `SQL Server`**
 
-</td>
+<br/>
 
-<td width="50%" valign="top">
+---
 
-### 🔐 Secure File Vault
+## 🔐 Secure File Vault
 
-A security-focused project exploring what happens when you stop treating files like they are automatically safe.
-
-Authentication, encryption/decryption, activity logging, and system monitoring.
+A security-focused project exploring file authentication, encryption/decryption, activity logging, and system monitoring.
 
 **`C` `Linux` `Bash`**
 
-</td>
+<br/>
 
-</tr>
+---
 
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 Grocery Price Analysis
+## 📊 Grocery Price Analysis
 
 Started with messy data.
 
@@ -162,8 +141,6 @@ Ended with something actually useful.
 A data analysis project exploring grocery prices, comparisons, and trends through data cleaning, analysis, and visualization.
 
 **`Python` `Pandas` `Data Analysis`**
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -180,10 +157,6 @@ Eventually, they'll make it here.
 **`Build → Break → Debug → Learn → Repeat`**
 
 </td>
-
-</tr>
-</table>
-
 ---
 
 # `> toolbox`
