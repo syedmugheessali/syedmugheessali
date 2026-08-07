@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://syedmugheessali.vercel.app">
+<a href="https://syedmugheesali.me">
 <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit-0f172a?style=for-the-badge" />
 </a>
 
