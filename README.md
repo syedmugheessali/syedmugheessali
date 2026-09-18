@@ -286,7 +286,7 @@ You might as well say hi.
 
 <br/>
 
-<a href="https://syedmugheessali.vercel.app">
+<a href="https://syedmugheesali.me">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20me-2563EB?style=for-the-badge" />
 </a>
 
