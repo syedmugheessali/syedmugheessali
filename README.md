@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Syed%20Mughees%20Ali&fontSize=38&fontColor=ffffff&fontAlignY=45&fontFamily=monospace" width="100%"/>
 
-**Software Engineering Student · Junior Full Stack Developer**
+**Software Engineering Student**
 Karachi, Pakistan
 
 [Portfolio](https://syedmugheesali.me) · [LinkedIn](https://www.linkedin.com/in/syedmugheesali/)
@@ -13,9 +13,7 @@ Karachi, Pakistan
 
 ## About
 
-Software Engineering student at Bahria University (expected 2027), currently working as a Junior Full Stack Developer at DISC n Drive. I also run [AI Earning Hub](https://ai-earning-hub.com), a content site on practical AI strategies for freelancing and income generation.
-
-Focused on full-stack web development, with a working background in Python, C#, Java, and SQL.
+Software Engineering student at Bahria University (expected 2027), focused on full-stack web development, with a working background in Python, C#, Java, and SQL.
 
 ## Stack
 
@@ -32,6 +30,8 @@ Focused on full-stack web development, with a working background in Python, C#, 
 **[Orbit](https://github.com/syedmugheessali/orbit)** — Responsive task-management app, no frameworks. `HTML` `CSS` `JavaScript`
 
 **[LocalPlay](https://github.com/syedmugheessali/localplay)** — Privacy-first local video player. `JavaScript`
+
+**[Confessions](https://github.com/syedmugheessali/Confessions)** — Anonymous, time-limited confession posts with live expiration. `MERN` `React` `Node.js` `Express` `MongoDB`
 
 ## Other Projects
 
