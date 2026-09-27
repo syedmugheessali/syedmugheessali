@@ -25,7 +25,7 @@ Software Engineering student at Bahria University (expected 2027), focused on fu
 
 **[EventEase](https://github.com/syedmugheessali/EventEase)** — Event-management app with end-to-end CRUD for events and registrations. `Blazor Server` `C#` `EF Core` `SQLite`
 
-**[Personal Portfolio](https://github.com/syedmugheessali/Personal-portfolio)** — Recruiter-focused developer portfolio. Live at [syedmugheesali.vercel.app](https://syedmugheessali.vercel.app). `Next.js` `TypeScript`
+**[Personal Portfolio](https://github.com/syedmugheessali/Personal-portfolio)** — Recruiter-focused developer portfolio. Live at [syedmugheesali.me](https://syedmugheessali.me). `Next.js` `TypeScript`
 
 **[Orbit](https://github.com/syedmugheessali/orbit)** — Responsive task-management app, no frameworks. `HTML` `CSS` `JavaScript`
 
@@ -41,13 +41,3 @@ Software Engineering student at Bahria University (expected 2027), focused on fu
 
 **[Expense Tracker](https://github.com/syedmugheessali/expense-tracker-js)** — Browser-based expense tracker with local persistence. `JavaScript` `LocalStorage`
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=syedmugheessali&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmugheessali&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=80&section=footer" width="100%"/>
-</div>
