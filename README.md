@@ -31,7 +31,7 @@ Software Engineering student at Bahria University (expected 2027), focused on fu
 
 **[LocalPlay](https://github.com/syedmugheessali/localplay)** — Privacy-first local video player. `JavaScript`
 
-**[Confessions](https://github.com/syedmugheessali/Confessions)** — Anonymous, time-limited confession posts with live expiration. `MERN` `React` `Node.js` `Express` `MongoDB`
+**[Confessions](https://github.com/syedmugheessali/Confessions)** — Anonymous, confession posts with live expiration. `MERN` `React` `Node.js` `Express` `MongoDB`
 
 ## Other Projects
 
