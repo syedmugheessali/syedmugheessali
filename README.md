@@ -13,7 +13,7 @@ Karachi, Pakistan
 
 ## About
 
-Software Engineering student at Bahria University (expected 2027), focused on full-stack web development, with a working background in Python, C#, Java, and SQL.
+Software Engineering student at Bahria University (expected 2027), focused on full-stack web development, with a working background in Python, C#, React.js, NEXT.JS, MONGODB and SQL.
 
 ## Stack
 
